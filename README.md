@@ -34,10 +34,14 @@
   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 </p>
 
-<picture>
-  <img src="https://github-readme-stats.vercel.app/api?username=Dfkuro&show_icons=true&theme=radical" alt="Dfkuro's Stats" style="height: 220;" />
-</picture>
+<p>
+  <picture>
+    <img src="https://github-readme-stats.vercel.app/api?username=Dfkuro&show_icons=true&theme=radical" alt="Dfkuro's Stats" style="height: 220;" />
+  </picture>
+</p>
 
-<picture>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=radical" alt="Dfkuro's Stats"  style="height: 220;" />
-</picture>
+<p>
+  <picture>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=radical" alt="Dfkuro's Stats"  style="height: 220;" />
+  </picture>
+</p>
