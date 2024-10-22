@@ -34,5 +34,5 @@
   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 </p>
 
-<p>Statics</p>
-![Dfkuro's GitHub stats](https://github-readme-stats.vercel.app/api?username=dfkuro&show_icons=true&theme=radical)
+<h3>Github Stats</h3>
+<img src="https://github-readme-stats.vercel.app/api?username=Dfkuro&show_icons=true&theme=radical" alt="Dfkuro's Stats" style="height: 220;" />
